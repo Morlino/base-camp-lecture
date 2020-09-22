@@ -1,3 +1,3 @@
 # base-camp-lecture
 
-[here] [https://www.youtube.com/watch?v=dQw4w9WgXcQ]
+[here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
